@@ -2,12 +2,12 @@
 
 Install the dependencies
 ```bash
-npm install
+yarn install
 ```
 
 Start Rollup
 ```bash
-npm run dev
+yarn dev
 ```
 
 Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
@@ -29,5 +29,5 @@ For more info, this template was made following this [tutorial](https://codelabs
 To create an optimised version of the app:
 
 ```bash
-npm run build
+yarn build
 ```
