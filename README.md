@@ -1,14 +1,11 @@
 ## Get started
 
-Install the dependencies...
-
+Install the dependencies
 ```bash
-cd my-svelte-pwa
 npm install
 ```
 
-...then start [Rollup](https://rollupjs.org):
-
+Start Rollup
 ```bash
 npm run dev
 ```
